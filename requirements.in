@@ -1,0 +1,19 @@
+-r ./requirements-worker.in
+-r ./requirements-server.in
+
+requests
+pyopenssl
+fasteners
+coverage
+flake8
+backports.tempfile
+hypothesis
+mock
+tox
+pip-tools
+ipdb
+pytest
+pytest-cov
+pytest-django
+model_mommy
+django-webtest

@@ -1,0 +1,9 @@
+oasislmf>=1.8.3
+celery
+boto3
+configparser
+fasteners
+pathlib2
+pymysql
+sqlalchemy
+pytest
